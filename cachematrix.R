@@ -5,7 +5,7 @@
 ## First, define the list of functions that will be used to cache the
 ## inverse of the matrix, namely:
 
-## set - write the starting matrix to memory
+## set - write the starting matrix to memory; initialize inverse matrix as null
 ## get - read the starting matrix
 ## setinv - calculate and cache the matrix inverse
 ## getinv - read the cached inverse
